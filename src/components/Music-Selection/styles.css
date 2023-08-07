@@ -1,0 +1,35 @@
+
+.music-card {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.music-card h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+
+    color: #FFFFFF;
+    ;
+}
+
+.music-card p {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+
+    width: 260px;
+    height: 136px;
+
+    color:#CCC3C3;
+    margin-top: -5px;
+
+    text-align: justify;
+}
+
+.image-music {
+    width: 260px;
+    height: 260px;
+    
+}
+
