@@ -45,6 +45,29 @@ A função handleBarClick permite que os usuários cliquem na barra de progresso
 ![Player-musica](https://github.com/Gabsm02/Player-musica/assets/129795081/25e04687-193d-4f27-862d-3cbe337e3ac4)
 
 
+
 Em resumo, este projeto React oferece uma experiência de reprodução de música amigável e interativa, permitindo aos usuários explorar e curtir uma seleção de músicas enquanto têm controle total sobre a reprodução e a navegação entre faixas. Além disso, ele demonstra a utilização de hooks, manipulação de eventos e a integração de elementos HTML5 em uma aplicação web moderna.
 
 
+Para executar o projeto em sua máquina, siga estas etapas:
+
+1- Clone o repositório para sua máquina usando o seguinte comando no terminal:
+
+git clone https://github.com/Gabsm02/Player-musica
+
+2- Abra a pasta do projeto em seu editor de texto preferido, como o Visual Studio Code.
+
+3-No terminal, navegue até a pasta do projeto e execute o comando a seguir para instalar todas as dependências necessárias:
+
+
+npm install
+
+
+4- Após a conclusão da instalação das dependências, inicie um servidor local executando o seguinte comando:
+
+npm start
+
+
+Isso iniciará a aplicação e abrirá uma janela do seu navegador padrão exibindo o projeto em funcionamento.
+
+Agora você está pronto para explorar o reprodutor de música interativo em sua própria máquina! Se tiver alguma dúvida ou problema, sinta-se à vontade para entrar em contato. Divirta-se! 🎵🎶
