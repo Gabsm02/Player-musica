@@ -42,7 +42,7 @@ Os eventos de clique são utilizados para interagir com os elementos da interfac
 A função handleBarClick permite que os usuários cliquem na barra de progresso para pular para uma posição específica na música.
 
 
-![Print player música](https://github.com/Gabsm02/Player-musica/assets/129795081/527566ef-e904-46f2-8886-a6509ef5ef44)
+![Player-musica](https://github.com/Gabsm02/Player-musica/assets/129795081/25e04687-193d-4f27-862d-3cbe337e3ac4)
 
 
 Em resumo, este projeto React oferece uma experiência de reprodução de música amigável e interativa, permitindo aos usuários explorar e curtir uma seleção de músicas enquanto têm controle total sobre a reprodução e a navegação entre faixas. Além disso, ele demonstra a utilização de hooks, manipulação de eventos e a integração de elementos HTML5 em uma aplicação web moderna.
