@@ -1,5 +1,5 @@
 # Player-musica
-Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
+Este projeto é uma aplicação web interativa de reprodução de música, desenvolvida utilizando a biblioteca React. Este projeto foi desenvolvido em um desafio da Cubos Academy. Através desta aplicação, os usuários podem explorar e reproduzir uma lista de músicas disponíveis. A interface do usuário é organizada de forma intuitiva e oferece diversas funcionalidades relacionadas à reprodução de música, incluindo controle de reprodução, seleção de faixas, exibição de informações sobre a música em reprodução e uma barra de progresso para acompanhar o tempo de reprodução.
 
 Aqui está uma descrição detalhada dos principais componentes e recursos do projeto:
 
